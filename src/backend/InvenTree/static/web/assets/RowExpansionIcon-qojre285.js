@@ -1,0 +1,1 @@
+import{j as n,bz as a,cj as r,ea as t}from"./vendor-BnaqX2_l.js";function i({enabled:o,expanded:s}){return n.jsx(a,{size:"sm",variant:"transparent",disabled:!o,children:s?n.jsx(r,{}):n.jsx(t,{})})}export{i as R};

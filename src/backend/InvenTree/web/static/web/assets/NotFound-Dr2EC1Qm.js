@@ -1,0 +1,1 @@
+import{j as r,i as o}from"./vendor-BnaqX2_l.js";import{E as t}from"./GenericErrorPage-BDqvbBMU.js";import"./BaseContext-CH9A7-TB.js";import"./index-fPzgLVil.js";function a(){return r.jsx(t,{title:o._({id:"boJlGf"}),message:o._({id:"CcD0eu"})})}export{a as default};
